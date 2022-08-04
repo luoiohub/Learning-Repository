@@ -1,1 +1,1 @@
-\LaTeX 笔记
+\{LaTeX} 笔记
