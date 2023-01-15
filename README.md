@@ -1,2 +1,2 @@
 # Learning-Repository
-我的学习记录
+我的学习记录。
